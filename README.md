@@ -1,1 +1,0 @@
-# holbertonschool-Fun-with-CSS
